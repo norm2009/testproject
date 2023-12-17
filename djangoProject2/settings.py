@@ -67,6 +67,7 @@ TEMPLATES = [
         },
     },
 ]
+print('s')
 
 WSGI_APPLICATION = 'djangoProject2.wsgi.application'
 
